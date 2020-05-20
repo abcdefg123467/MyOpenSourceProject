@@ -1,2 +1,2 @@
 # MyOpenSourceProject
-This is a description about my open source project.
+A description about my open source project.
